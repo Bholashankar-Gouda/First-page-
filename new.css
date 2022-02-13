@@ -1,0 +1,43 @@
+.leftup{
+    width: 50%;
+    height: 45%;
+    float: left;
+    font-family: 'Luxurious Roman', cursive;
+}
+
+.rightup{
+    width: 50%;
+    height: 45%;
+    float: right;
+}
+
+.rightdown{
+    width: 50%;
+    height: 45%;
+    float: right;
+}
+
+.leftdown{
+    width: 50%;
+    height: 45%;
+    float: left;
+}
+
+.img{
+    height: 70%;
+    width: 50%;
+    margin-top: 5%;
+    margin-left: 30%;
+}
+
+.fa{
+    margin-left: 25px;
+    padding: 20px;
+}
+
+.lang{
+    font-size: 30px;
+    color:rgb(79, 90, 233);
+    margin-left: 30px;
+    font-family: 'The Nautigal', cursive;
+}
